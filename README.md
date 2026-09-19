@@ -68,6 +68,23 @@ No source code, no prompts, no drafts, no article text, no candidate or subject 
 source captures, no access credentials or procedures for obtaining them, no reviewer identities,
 no agent channel or routing specifics. See `docs/public-private-boundary.md`.
 
+## What is transferable here
+
+The value of this writeup to anyone else is not the workflow — it is the **governance pattern**,
+which applies to any AI-assisted work about identifiable people (casework, HR, care, journalism,
+research):
+
+1. Declare the mission, including the parts that are deliberately corrective.
+2. Separate the corrective search from the prose standard, in writing.
+3. Require full-fidelity evidence with provenance before any claim may rest on a source.
+4. Keep the inclusion judgment, the privacy judgment and the scope judgment separate, each able
+   to stop the work.
+5. Put a human at the publication gate, and require proposals to separate "the evidence supports
+   X" from "X should therefore be done".
+6. State in advance what the system must never be handed.
+
+The pattern is the deliverable. Everything else here is an instance of it.
+
 ## Honest status
 
 A private editorial workflow in regular use, with human review and publication gates in place.
